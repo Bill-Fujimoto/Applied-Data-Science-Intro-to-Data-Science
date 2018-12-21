@@ -1,0 +1,1 @@
+This repository is just a record of progress in my new adventure into the world of Python data science.  This is my first DS course getting exposure to Pandas and Numpy, data frames, structures, etc.  Not very exciting stuff to most, but nevertheless it was interesting to learn the basics of data manipulation.
